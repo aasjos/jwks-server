@@ -12,3 +12,4 @@ This project implements a simple JWKS server in Go using the Gin framework. It s
 1. Build and run the server:
    ```bash
    go run main.go
+<img width="1141" alt="Screenshot 2025-02-16 at 9 51 59 PM" src="https://github.com/user-attachments/assets/79576b6c-1af3-4fd8-ac80-c92cbb8b6708" />
